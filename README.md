@@ -6,6 +6,9 @@ A full-stack Note Collaboration App with user authentication, sharing &amp; perm
 
 This is a backend project for a Note Collaboration Application built with Node.js and MongoDB.
 
+# Documentation of Note Collabaration App using Postman
+https://documenter.getpostman.com/view/38258895/2sB2ixjZ99
+
 ## Features
 
 - User registration and login (JWT-based authentication)
