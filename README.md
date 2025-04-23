@@ -27,7 +27,7 @@ This is a backend project for a Note Collaboration Application built with Node.j
 1. Clone the repository:
 
 - `POST /auth/login` –
-git clone https://github.com/your-username/note-collaboration-app.git cd note-collaboration-app
+git clone https://github.com/ArchanaHublikar/note-collaboration-app.git cd note-collaboration-app
 
 2. Install dependencies:
 
